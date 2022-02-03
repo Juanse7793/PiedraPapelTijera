@@ -1,0 +1,40 @@
+*{
+    background-color: rgb(116, 107, 107);
+}
+.main{
+    text-align: center;
+    color: white;
+    
+}
+h1{
+    background-color: rgb(7, 44, 7);
+    font-family: 'Supermercado One', cursive;
+}
+button{
+    background-color: #5b62c3;
+    border: none;
+    color: white;
+    padding: 25px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 44px;
+    margin: 4px 10px;
+    cursor: pointer;
+}
+.objects{
+    text-align: center;
+}
+.marcador{
+    text-align: center;
+}
+#results-container{
+    text-align: center;
+}
+#resultado{
+    text-align: center;
+}
+span{
+    font-size: 35px;
+    padding: 10px;
+}
